@@ -2,7 +2,9 @@ import React from 'react'
 
 const PageName = () => {
   return (
-    <div>PageName</div>
+    <div>
+        <h1>Issue Tracker</h1>
+    </div>
   )
 }
 
